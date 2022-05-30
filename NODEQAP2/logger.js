@@ -26,7 +26,6 @@ class Logger extends EventEmitter {
       if (err) {
         throw err;
       } else {
-        this.emit("route", ` ${route}.html Logged Saved`);
       }
     });
   }

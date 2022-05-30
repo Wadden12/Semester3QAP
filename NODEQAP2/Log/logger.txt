@@ -76,3 +76,34 @@ Date: 5/29/2022, 9:43:23 PM  Token: 27b9b3e8-c2ae-48e3-9097-821c76f036ca INFO in
 Date: 5/29/2022, 9:44:45 PM  Token: a12cb675-e167-4665-91ad-c1c0efd9784f INFO index.html  the home page for the site was visted
 Date: 5/29/2022, 9:45:14 PM  Token: 1c558c92-115b-4f37-9686-8dbb0e8671e5 INFO about.html  the about page was visted
 Date: 5/29/2022, 9:45:42 PM  Token: 10157c8f-d841-4c50-98c3-f6daa2a8641e INFO index.html  the home page for the site was visted
+Date: 5/29/2022, 9:55:48 PM  Token: 95aae9ef-b352-4613-b55e-96cc1abd5931 INFO index.html  the home page for the site was visted
+Date: 5/29/2022, 10:10:24 PM  Token: 9467f8be-65ef-4665-8834-fd68a6557b1a INFO index.html  the home page for the site was visted
+Date: 5/29/2022, 10:10:26 PM  Token: 3942ef16-0ac0-4c4f-91ca-1c3ffdb8df56 INFO contact.html  the contact page was visted
+Date: 5/29/2022, 10:31:34 PM  Token: a9a4a97b-818a-41f4-9451-e8617cf0d600 INFO contact.html  the contact page was visted
+Date: 5/29/2022, 10:31:41 PM  Token: d5083252-fd11-489c-acab-2df9e128d9fb INFO about.html  the about was visted
+Date: 5/29/2022, 10:31:41 PM  Token: 9f97ce16-5dc7-4af8-b9a2-8ced6b53d7ff INFO about.html  the about was visted
+Date: 5/29/2022, 10:32:00 PM  Token: ba908625-e4e7-4196-8b10-9ef6a5dc557c INFO gallery.html  the gallery page was visted
+Date: 5/29/2022, 10:32:00 PM  Token: 79ae6341-0472-4822-8d7a-da6eecba5604 INFO gallery.html  the gallery page was visted
+Date: 5/29/2022, 10:32:00 PM  Token: 8ca15fc3-3d5b-43cf-a110-c73b41f621fd INFO gallery.html  the gallery page was visted
+Date: 5/29/2022, 10:40:23 PM  Token: bcefa24c-f443-4aa1-b38b-df41399d5f4a INFO gallery.html  the gallery page was visted
+Date: 5/29/2022, 10:40:32 PM  Token: c7ec2789-ada1-495d-90d1-b251e05162a6 INFO index.html  the homepage was visted
+Date: 5/29/2022, 10:40:32 PM  Token: 30a28033-6dd5-4b4f-8b67-b5bdc9bc20c2 INFO index.html  the homepage was visted
+Date: 5/29/2022, 10:40:41 PM  Token: 71c5c5cf-11a7-4ce8-9a7d-64e4a98028a4 INFO contact.html  the contact page was visted
+Date: 5/29/2022, 10:40:41 PM  Token: 6064b7c4-f876-4596-a318-31abe5f929fc INFO contact.html  the contact page was visted
+Date: 5/29/2022, 10:40:41 PM  Token: 06b31e6b-1f0f-4fb8-a9d2-683e5f502833 INFO contact.html  the contact page was visted
+Date: 5/29/2022, 10:41:32 PM  Token: da0dda36-4667-4b47-a18e-63f503132a1e INFO about.html  the about was visted
+Date: 5/29/2022, 10:41:40 PM  Token: 1690a023-60bc-4ee5-9c43-d93d6de5a31e INFO about.html  the about was visted
+Date: 5/29/2022, 10:41:40 PM  Token: 41fa5360-dfdb-4253-8851-fda2a32e7985 INFO about.html  the about was visted
+Date: 5/29/2022, 10:41:49 PM  Token: 91650143-d4ba-4d64-9425-4224d4ec21de INFO subscribe.html  the subscribe page was visted
+Date: 5/29/2022, 10:41:49 PM  Token: 2534c7fc-3cda-4623-95e4-2c8e5cecb09c INFO subscribe.html  the subscribe page was visted
+Date: 5/29/2022, 10:41:49 PM  Token: d4f93559-d89f-415d-bb02-a54c381607f9 INFO subscribe.html  the subscribe page was visted
+Date: 5/30/2022, 8:30:45 AM  Token: 44809010-b9b1-418c-aa6b-dd5808048f87 INFO subsccribe.html  subscribe page was visted
+Date: 5/30/2022, 8:31:14 AM  Token: 2a4f6ecd-3d45-4f93-920a-1ccbf260996c INFO index.html  homepage was visted
+Date: 5/30/2022, 8:31:19 AM  Token: c14ca555-5a10-4ffc-86df-e11db1f7748a INFO about.html  about page  was visted
+Date: 5/30/2022, 8:31:19 AM  Token: 108e61eb-37c6-4516-9d2b-acf28027e887 INFO about.html  about page  was visted
+Date: 5/30/2022, 8:33:51 AM  Token: 26b12234-7847-4be0-a590-eb1c5ffd4d92 INFO about.html  the about page was visted
+Date: 5/30/2022, 8:33:58 AM  Token: b57d1516-0b3f-426b-abe0-885ebc2517a1 INFO index.html  the home page for the site was visted
+Date: 5/30/2022, 8:34:04 AM  Token: 5183b9ac-72bf-4d44-85d1-e3d7638fa95f INFO about.html  the about page was visted
+Date: 5/30/2022, 8:34:09 AM  Token: d0be607e-7b1b-4445-9ede-003b8f676cc9 INFO contact.html  the contact page was visted
+Date: 5/30/2022, 8:34:15 AM  Token: f464c57e-93af-450f-a48b-fcf3c000efa4 INFO gallery.html  the gallery page was visted
+Date: 5/30/2022, 8:34:18 AM  Token: 91ea5d41-4625-4f8b-946a-73030a439e0f INFO subscribe.html  the subscribe page was visted
