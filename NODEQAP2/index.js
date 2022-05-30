@@ -9,7 +9,9 @@
 
 const http = require("http");
 const rotues = require("./routes");
+const status = require("./status");
 //imports the functions from the Routes Folder
+
 const server = http.createServer((request, response) => {
   let path = "./views/";
   // sets the path to the directory for the html files
@@ -18,59 +20,91 @@ const server = http.createServer((request, response) => {
   switch (request.url) {
     case "/":
       console.log("Home Page loaded");
-      path += "index.html";
+      // change the status code between 200 to 418 or 404 to get a different responce
+      // going to work on making a single routes function which should help make the code more efficent
       response.statusCode = 200;
-      rotues.index(path, response);
+
+      if (response.statusCode === 200) {
+        path += "index.html";
+        rotues.index(path, response);
+        status.statusCheck(request, response);
+      } else status.statusCheck(request, response, path);
 
       break;
 
     case "/about":
       console.log("About Page loaded");
-      path += "about.html";
+
       response.statusCode = 200;
+      if (response.statusCode === 200) {
+        path += "about.html";
+        rotues.about(path, response);
+        status.statusCheck(request, response);
+      } else status.statusCheck(request, response, path);
       response.setHeader("set-cookie", "Page = About");
-      rotues.about(path, response);
       break;
 
     case "/contact":
       console.log("Contact Page loaded");
-      path += "contact.html";
       response.statusCode = 200;
+      if (response.statusCode === 200) {
+        path += "contact.html";
+        rotues.contact(path, response);
+        status.statusCheck(request, response);
+      } else status.statusCheck(request, response, path);
       response.setHeader("set-cookie", "Page = Contact");
-      rotues.contact(path, response);
       break;
 
     case "/gallery":
       console.log("Gallery Page loaded");
-      path += "gallery.html";
       response.statusCode = 200;
+      if (response.statusCode === 200) {
+        path += "gallery.html";
+        rotues.gallery(path, response);
+        status.statusCheck(request, response);
+      } else status.statusCheck(request, response, path);
       response.setHeader("set-cookie", "Page = Gallery");
-      rotues.gallery(path, response);
+      break;
+
+    case "/subscribe":
+      console.log("Subscribe Page loaded");
+      response.statusCode = 200;
+
+      if (response.statusCode === 200) {
+        path += "subscribe.html";
+        rotues.subscribe(path, response);
+        status.statusCheck(request, response);
+      } else status.statusCheck(request, response, path);
+      response.setHeader("set-cookie", "Page = Subscribe");
+      break;
+
+    case "/log":
+      console.log("Log Page Loaded");
+      response.statusCode = 200;
+
+      if (response.statusCode === 200) {
+        path = "Log/logger.txt";
+        response.setHeader("Location", "/log");
+        rotues.logPage(path, response);
+        status.statusCheck(request, response);
+      } else status.statusCheck(request, response, path);
+      response.setHeader("set-cookie", "Page = Log");
       break;
 
     // Redirect from old url to new one
 
     case "/gallery-nl":
       response.statusCode = 301;
+      status.statusCheck(request, response);
       console.log("Redirect from the old url to the new gallery");
-      response.setHeader("Location", "/gallery");
       response.end();
-      break;
-
-    case "/subscribe":
-      console.log("Subscribe Page loaded");
-      path += "subscribe.html";
-      response.setHeader("Location", "/about");
-      response.setHeader("set-cookie", "Page = Subscribe");
-      rotues.subscribe(path, response);
       break;
 
     default:
       console.log("Load 404 Error page");
-      path += "error.html";
       response.statusCode = 404;
+      status.statusCheck(request, response, path);
       response.setHeader("set-cookie", "Page = 404 Error");
-      rotues.notFound(request.url, path, response);
       break;
   }
 });
