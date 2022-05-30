@@ -107,3 +107,183 @@ Date: 5/30/2022, 8:34:04 AM  Token: 5183b9ac-72bf-4d44-85d1-e3d7638fa95f INFO ab
 Date: 5/30/2022, 8:34:09 AM  Token: d0be607e-7b1b-4445-9ede-003b8f676cc9 INFO contact.html  the contact page was visted
 Date: 5/30/2022, 8:34:15 AM  Token: f464c57e-93af-450f-a48b-fcf3c000efa4 INFO gallery.html  the gallery page was visted
 Date: 5/30/2022, 8:34:18 AM  Token: 91ea5d41-4625-4f8b-946a-73030a439e0f INFO subscribe.html  the subscribe page was visted
+Date: 5/30/2022, 10:18:30 AM  Token: c09825a9-18ac-4da4-b83a-afce550c483d INFO subscribe.html  the subscribe page was visted
+Date:5/30/2022, 10:18:32 AM Token: b4da4021-df74-4246-b376-31ece671fe07 ERROR /log.html  route was not found
+Date: 5/30/2022, 10:26:57 AM  Token: ad797cfc-33a9-4162-99e9-5300a618f760 INFO index.html  the home page for the site was visted
+ <br>Date: 5/30/2022, 10:26:59 AM  Token: f106f7e2-df4a-4d33-8a9b-2a3b3c202e5e INFO index.html  the home page for the site was visted
+ <br>Date: 5/30/2022, 10:29:32 AM  Token: a746bed9-6f90-4b44-8e6a-d9a6d8317df9 INFO index.html  the home page for the site was visted
+Date: 5/30/2022, 10:29:50 AM  Token: 69c4a94b-6de7-485b-8d14-2c3d550f274b INFO index.html  the home page for the site was visted
+Date: 5/30/2022, 10:30:53 AM  Token: df6d9b50-3736-4565-94b1-a3a19f7573c4 INFO about.html  the about page was visted
+ <br>Date: 5/30/2022, 10:31:19 AM  Token: df7eccec-776b-408c-8482-0b203e7a5900 INFO index.html  the home page for the site was visted
+ <br>Date: 5/30/2022, 10:31:21 AM  Token: 891286a0-5916-4bc5-96a4-85f6fb7f45b5 INFO about.html  the about page was visted
+ <br>Date: 5/30/2022, 10:31:22 AM  Token: 9bd9f7dc-027d-49fd-a02f-79945a5fb356 INFO contact.html  the contact page was visted
+ <br>Date: 5/30/2022, 10:31:23 AM  Token: b1fbfd08-3673-47ab-a1c0-0fb9e8f3a764 INFO gallery.html  the gallery page was visted
+ <br>Date: 5/30/2022, 10:31:28 AM  Token: 6f787b3e-abdc-4453-87c3-701b36dc381a INFO subscribe.html  the subscribe page was visted
+ <br>Date: 5/30/2022, 10:31:40 AM  Token: 431ac168-027c-48d3-8296-9038cf068f0c INFO index.html  the home page for the site was visted
+ <br>Date: 5/30/2022, 10:31:41 AM  Token: 8585b779-ac7f-4184-aa48-e4fa4547870c INFO about.html  the about page was visted
+ <br>Date: 5/30/2022, 10:32:01 AM  Token: d3b95f51-e11f-49e6-b811-41e59eb8cddd INFO contact.html  the contact page was visted
+ <br>Date: 5/30/2022, 10:32:05 AM  Token: feb1727b-d890-487f-a2a9-be80aee1d756 INFO index.html  the home page for the site was visted
+ <br>Date: 5/30/2022, 10:32:07 AM  Token: 4215dc87-6e7e-4a1e-8989-e1b4af84c877 INFO about.html  the about page was visted
+ <br>Date: 5/30/2022, 10:32:08 AM  Token: e6819047-27aa-4732-9dc3-eb236a6cad1f INFO contact.html  the contact page was visted
+ <br>Date: 5/30/2022, 10:32:09 AM  Token: ad12b40f-5c5b-421e-90b5-9a2cb5b633b2 INFO subscribe.html  the subscribe page was visted
+ <br>Date: 5/30/2022, 10:32:33 AM  Token: e706be22-2e39-4994-97de-9c25c6b7109c INFO index.html  the home page for the site was visted
+ <br>Date: 5/30/2022, 10:32:34 AM  Token: 61bb15ea-b1ad-49bd-bb32-25c3c96437b8 INFO about.html  the about page was visted
+ <br>Date: 5/30/2022, 10:33:30 AM  Token: 4bab3961-fcbb-4999-a4b6-e901b72364ae INFO index.html  the home page for the site was visted
+ <br>Date: 5/30/2022, 10:33:32 AM  Token: d7262546-3171-49f4-85fb-09be135de610 INFO about.html  the about page was visted
+ <br>Date: 5/30/2022, 10:33:33 AM  Token: c36d020d-6da1-45d0-8fcc-7470ad82ea15 INFO contact.html  the contact page was visted
+ <br>Date: 5/30/2022, 10:33:34 AM  Token: bb4327fc-d22b-4952-bd64-9febe8f940c4 INFO gallery.html  the gallery page was visted
+ <br>Date: 5/30/2022, 10:34:00 AM  Token: f9992bd8-dcae-4d1d-a7b0-6a96e5356fed INFO index.html  the home page for the site was visted
+ <br>Date: 5/30/2022, 10:36:06 AM 	 Token: 35ae01d4-11c0-4c8c-a686-678116340e9e 	INFO 	index.html  	the home page for the site was visted
+ <br>Date: 5/30/2022, 10:36:08 AM 	 Token: 3117b4b1-6cfd-499f-9fff-4fbd7ee0276f 	INFO 	index.html  	the home page for the site was visted
+ <br>Date: 5/30/2022, 10:36:09 AM 	 Token: 467d9451-31cf-43bf-8e0b-83d865fc12d8 	INFO 	about.html  	the about page was visted
+ <br>Date: 5/30/2022, 10:36:09 AM 	 Token: 808b5113-e0f8-4814-8898-be7093822bfd 	INFO 	contact.html  	the contact page was visted
+ <br>Date: 5/30/2022, 10:36:11 AM 	 Token: 64b64fd7-761c-4510-aa73-a61e25ae67cf 	INFO 	gallery.html  	the gallery page was visted
+ <br>Date: 5/30/2022, 10:36:15 AM 	 Token: fd684454-6d35-4331-becb-a61b7d16d3e8 	INFO 	subscribe.html  	the subscribe page was visted
+ <br>Date: 5/30/2022, 10:39:52 AM |     Token: 5e8f9e5c-b79f-405a-b802-da2d70c79518 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 10:39:56 AM |     Token: eef32ae6-6e3a-4e2f-8408-af8eae914e2d INFO |     about.html |    the about page was visted
+ <br>Date: 5/30/2022, 10:39:57 AM |     Token: 2c0bacd8-0020-4a96-bb1a-1ee4d7ae3128 INFO |     contact.html |    the contact page was visted
+ <br>Date: 5/30/2022, 10:39:58 AM |     Token: c94f2cbc-02f2-464a-8d92-9135221bdc9c INFO |     contact.html |    the contact page was visted
+ <br>Date: 5/30/2022, 10:39:59 AM |     Token: 4af659a2-d242-4032-9b47-1b19a54faa07 INFO |     gallery.html |    the gallery page was visted
+ <br>Date: 5/30/2022, 10:40:03 AM |     Token: 7bd8f675-573e-45c5-ba27-32d159bbc5da INFO |     subscribe.html |    the subscribe page was visted
+ <br>Date: 5/30/2022, 10:40:05 AM |     Token: 161d5ef7-b2d0-411a-9d08-ea0b0dd3e89a INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 10:40:48 AM |     Token: 6198c3d7-5000-45c4-b76a-11c248840007 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 10:40:50 AM |     Token: b8be15b4-1da6-4b24-a5f8-679807bda8be INFO |     about.html |    the about page was visted
+ <br>Date: 5/30/2022, 10:43:09 AM |     Token: 6f7c7a5c-7440-43bd-a602-1bfde20d9a6e INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 10:43:15 AM |     Token: 627674aa-602b-41a5-9290-874d9acbbcb8 INFO |     about.html |    the about page was visted
+ <br>Date: 5/30/2022, 10:43:22 AM |     Token: 41586d12-6d2f-4004-9ac1-5a3699179542 INFO |     about.html |    the about page was visted
+ <br>Date: 5/30/2022, 10:43:23 AM |     Token: 5028bab7-df2d-4ac8-918a-9faedcb131ad INFO |     about.html |    the about page was visted
+ <br>Date: 5/30/2022, 10:43:48 AM |     Token: 7a59777a-9002-4fa9-96ff-e3357a813764 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 11:20:15 AM |     Token: a4db3bd1-8e1c-4e89-9be6-5de10010d1b8 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 11:36:33 AM |     Token: b54e68c7-37cc-4844-8678-1876536f1df2 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 11:39:35 AM |     Token: d37a01e2-9765-47d7-80c1-778b8f469aa7 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 11:40:42 AM |     Token: 865d0a09-c23c-4865-bc94-08c3f9285bf3 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 11:40:49 AM |     Token: 31e92f23-2e8b-4b8c-9cb2-1aa2bf108e8e INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 11:40:51 AM |     Token: a0357844-1a66-4cda-b29f-3c11b0aaa0f5 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 11:44:57 AM |     Token: cd495ff6-f55f-4982-9c47-bfc23d3daf17 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 11:45:35 AM |     Token: 9c9cc235-1a61-4ed6-868d-7d3c4e4bfb75 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 11:50:24 AM |     Token: a32e4c21-0b82-42cb-abf9-d4b905b7bb98 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 11:50:29 AM |     Token: 3f4a941c-adb9-4851-a946-e34d5bc0d986 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 11:50:42 AM |     Token: 8beac90b-16b3-4e22-b2cd-af36490592db INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:02:11 PM |     Token: 887f7411-3077-4c80-93bc-3e80b896f497 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:02:22 PM |     Token: 61cd487f-f269-49af-8186-7a62a5c387d2 INFO |     gallery.html |    the gallery page was visted
+ <br>Date:5/30/2022, 12:02:47 PM |      Token: 35d29748-95cb-468e-91b3-2492bd3592ec  ERROR |     /galleryy.html |     route was not found
+ <br>Date:5/30/2022, 12:05:31 PM |      Token: 92185356-9345-4fbf-976d-595b62373f40  ERROR |     /galleryy.html |     route was not found
+ <br>Date:5/30/2022, 12:08:43 PM |      Token: 78b6aee5-8396-4381-80db-7b95be3361a5  ERROR |     /galleryy.html |     route was not found
+ <br>Date: 5/30/2022, 12:10:44 PM |     Token: fbe7b033-ae5d-4565-a8dd-342752631ea2 INFO |     gallery.html |    the gallery page was visted
+ <br>Date: 5/30/2022, 12:11:47 PM |     Token: 8dfeea70-bf3a-4379-a059-8758bc981a4a INFO |     gallery.html |    the gallery page was visted
+ <br>Date: 5/30/2022, 12:14:02 PM |     Token: 61945d2b-c991-4a86-9ce1-778aa70f86cf INFO |     gallery.html |    the gallery page was visted
+ <br>Date: 5/30/2022, 12:17:55 PM |     Token: 8c4aa2d8-8fd1-4614-b37a-6adef1334e1f INFO |     gallery.html |    the gallery page was visted
+ <br>Date: 5/30/2022, 12:18:00 PM |     Token: e7e8ccee-b678-4a69-ac27-1f018f206746 INFO |     gallery.html |    the gallery page was visted
+ <br>Date: 5/30/2022, 12:18:38 PM |     Token: f1bf95fe-4579-4254-9067-54da98434c57 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:18:43 PM |     Token: 82d36e53-a175-4226-9cfd-16a1ddb3daf3 INFO |     gallery.html |    the gallery page was visted
+ <br>Date: 5/30/2022, 12:21:23 PM |     Token: dc203ce5-eff9-409c-bc05-2f492b6620ec INFO |     gallery.html |    the gallery page was visted
+ <br>Date:5/30/2022, 12:22:12 PM |      Token: b3603f4e-3ab1-42de-a5df-b908c231dcbf  ERROR |     /galleryy.html |     route was not found
+ <br>Date: 5/30/2022, 12:22:39 PM |     Token: c5d9c0bc-e7e1-4ffd-b8fc-7b239e512ee1 INFO |     gallery.html |    the gallery page was visted
+ <br>Date: 5/30/2022, 12:30:21 PM |     Token: a71914a5-978c-4beb-bab8-3cfd67118324 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:30:33 PM |     Token: 007e3fdd-372f-48c3-bc04-964c737422a4 INFO |     gallery.html |    the gallery page was visted
+ <br>Date:5/30/2022, 12:31:36 PM |      Token: 390ee879-2090-4330-920c-3d7c82091c5f  ERROR |     /galleryy.html |     route was not found
+ <br>Date:5/30/2022, 12:31:43 PM |      Token: ca7cc0b2-dba9-4bf5-b431-e87dc50cb1f2  ERROR |     /galleryy.html |     route was not found
+ <br>Date:5/30/2022, 12:33:43 PM |      Token: c0fe08f0-5111-4eb0-9e17-daa4be0679a7  ERROR |     /galleryy.html |     route was not found
+ <br>Date:5/30/2022, 12:34:58 PM |      Token: 82c7ce79-5c39-42c2-8bb5-9ab25c887a9e  ERROR |     /galleryy.html |     route was not found
+ <br>Date:5/30/2022, 12:35:00 PM |      Token: 2ac175a6-7dc7-4639-a8b4-1ac29993b480  ERROR |     /galleryy.html |     route was not found
+ <br>Date:5/30/2022, 12:35:25 PM |      Token: 647d4176-6aea-4909-b223-fb37f962374f  ERROR |     /galleryy.html |     route was not found
+ <br>Date: 5/30/2022, 12:45:51 PM |     Token: 27607ce4-1054-4bbc-b7a3-ccac90f0165a INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:45:54 PM |     Token: 5770eca4-976d-4c2b-8284-2904bbfe76fe INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:46:17 PM |     Token: 3c471e59-b21d-4ffb-99d1-3e2c8fb7f6d7 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:46:34 PM |     Token: becd4b18-c9c3-4679-b637-e2ffe4afe3c6 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:46:36 PM |     Token: 101b4df7-c658-4d63-b5bd-5118c9a1205c INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:48:45 PM |     Token: 63f1c3ff-a4e1-40db-8ce3-360b66f7be0d JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 12:48:45 PM |     Token: aaf85b4e-4742-467b-a550-c76c8db3178e INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:48:48 PM |     Token: 633be2dd-1883-4b9d-b2a6-85b23806ba80 JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 12:48:48 PM |     Token: 73317788-06b7-46fa-b6ac-17fd53088c44 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:54:58 PM |     Token: c7aff697-5056-4589-9921-d9a9c9a10372 JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 12:54:59 PM |     Token: 014c80fb-1b62-4c99-851c-8b1298b8f8de JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 12:55:24 PM |     Token: 12381366-f540-493b-9aca-6f3ae5d54666 JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 12:55:25 PM |     Token: 083e358c-0740-4bdb-9fd3-4182e579dc0a JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 12:55:41 PM |     Token: c293a63e-5b3e-4906-b146-1a39b2c6b9a3 JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 12:55:41 PM |     Token: 067bcd35-251a-4a6e-a6ca-2edf6186c03b JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 12:58:19 PM |     Token: 5e7019b9-41ec-42e7-b4df-1998e60b500c JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 12:58:19 PM |     Token: dfd0d0a1-2a86-452e-8189-fa40237283fe JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 12:58:37 PM |     Token: a59e67ba-24e2-400d-9fc4-89f9f8dee355 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:58:39 PM |     Token: bc1ac58b-0196-4840-9b17-fea9fded752b INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 12:59:27 PM |     Token: 0892587c-9163-449f-b0d3-e86e808c3e17 JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 1:00:55 PM |     Token: 6255beb3-fcb1-4d49-96f8-e370860fb9c7 JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 1:02:45 PM |     Token: 0963d4ea-edda-40f0-ab9f-1550b79f7301 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 1:04:09 PM |     Token: 74450f96-f538-49cb-b906-866b374bfe6d JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date:5/30/2022, 1:05:57 PM |      Token: ef9f3c31-9662-473b-b2d4-766e8449b639  ERROR |     /.html |     route was not found
+ <br>Date: 5/30/2022, 1:43:37 PM |     Token: 38b4ff88-76f0-4c7c-a789-e80bd94b73de INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 1:43:39 PM |     Token: 06af80f5-ab62-4c78-a262-73c40fb68e9c INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 1:43:40 PM |     Token: ae902492-4c09-4c59-964f-17fc23785a5e INFO |     about.html |    the about page was visted
+ <br>Date: 5/30/2022, 1:45:05 PM |     Token: 63b494ff-dfe3-4572-ad6e-4fcfd8473724 INFO |     about.html |    the about page was visted
+ <br>Date: 5/30/2022, 1:45:06 PM |     Token: c7c4e0cf-41b4-41bf-aa6a-ea5aa789b11c INFO |     about.html |    the about page was visted
+ <br>Date: 5/30/2022, 1:45:09 PM |     Token: 98e5fb65-521d-4877-9c89-129fb163e5ca INFO |     contact.html |    the contact page was visted
+ <br>Date: 5/30/2022, 1:46:35 PM |     Token: 29fff46b-a23c-4913-ace3-27584d3f8735 INFO |     contact.html |    the contact page was visted
+ <br>Date: 5/30/2022, 1:46:35 PM |     Token: 068f0d7b-3b8c-4386-a2b3-ec87383353b1 INFO |     contact.html |    the contact page was visted
+ <br>Date: 5/30/2022, 1:46:37 PM |     Token: 93e9c4b9-b3c5-4d5d-9127-e83915e59cee INFO |     gallery.html |    the gallery page was visted
+ <br>Date: 5/30/2022, 1:48:22 PM |     Token: 82c87bf2-5d75-4574-ba35-3cec0b4bfcb7 INFO |     gallery.html |    the gallery page was visted
+ <br>Date: 5/30/2022, 1:49:49 PM |     Token: d4d31e89-1420-42b4-811d-eab39711c7ac INFO |     subscribe.html |    the subscribe page was visted
+ <br>Date: 5/30/2022, 1:49:50 PM |     Token: 0eb437e7-d546-4d0e-9dd2-c09cbe08d897 INFO |     subscribe.html |    the subscribe page was visted
+ <br>Date: 5/30/2022, 1:53:28 PM |     Token: 8926f7d7-a2b6-4235-a079-50b471b47fcf INFO |     subscribe.html |    the subscribe page was visted
+ <br>Date: 5/30/2022, 1:53:30 PM |     Token: 0c5af9ae-4e3f-4867-b9ff-d9680275a66c INFO |     subscribe.html |    the subscribe page was visted
+ <br>Date: 5/30/2022, 1:53:31 PM |     Token: e5606479-fd47-4920-a00d-b4fa69c18027 INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 1:53:32 PM |     Token: 65c288ac-cf24-4ee4-8355-36d903bdc7ff INFO |     about.html |    the about page was visted
+ <br>Date: 5/30/2022, 1:53:34 PM |     Token: 9f40ef37-d77e-4882-b50b-f131bda06fcf INFO |     contact.html |    the contact page was visted
+ <br>Date: 5/30/2022, 1:53:35 PM |     Token: 31817c16-33a1-4719-af2d-ae660e3a1b1f INFO |     gallery.html |    the gallery page was visted
+ <br>Date: 5/30/2022, 1:53:49 PM |     Token: bd763568-7bb0-485b-b08d-fafc5ac6971e INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 1:53:51 PM |     Token: 288a3f39-e45b-45ba-bff9-62b14df0433f INFO |     log.html |    the log page was visted
+ <br>Date: 5/30/2022, 1:54:01 PM |     Token: 163b132a-e902-47e2-8263-53470f6da7a1 INFO |     about.html |    the about page was visted
+ <br>Date: 5/30/2022, 1:54:21 PM |     Token: 5b15137d-f409-460a-99b7-5fb08268cc8a INFO |     index.html |    the home page for the site was visted
+ <br>Date: 5/30/2022, 1:54:53 PM |     Token: 47855e14-9e63-4e24-b9f9-eae09b7718e3 ERROR |     maintance.html |    went to the maintance page while the website was down
+ <br>Date: 5/30/2022, 1:54:55 PM |     Token: a7c9dc01-4a2c-439a-831f-091e13c075b8 ERROR |     maintance.html |    went to the maintance page while the website was down
+ <br>Date: 5/30/2022, 1:54:55 PM |     Token: 589971ca-6941-4c47-88c6-6383ca01e66a ERROR |     maintance.html |    went to the maintance page while the website was down
+ <br>Date: 5/30/2022, 1:56:31 PM |     Token: 87acc830-5cb2-4ecd-b67e-c2929c7c53bb ERROR |     maintance.html |    went to the maintance page while the website was down
+ <br>Date: 5/30/2022, 1:56:33 PM |     Token: c40ec4ff-6f81-4fdb-88cb-e90b2a279fd3 ERROR |     maintance.html |    went to the maintance page while the website was down
+ <br>Date: 5/30/2022, 1:56:46 PM |     Token: 561b8667-545f-401d-af69-4d008339d060 ERROR |     maintance.html |    went to the maintance page while the website was down
+ <br>Date: 5/30/2022, 1:56:46 PM |     Token: 1e41586f-68e0-4902-bb28-e16e2de70451 ERROR |     maintance.html |    went to the maintance page while the website was down
+ <br>Date: 5/30/2022, 2:05:16 PM |     Token: dd841885-cef3-4ff8-9918-70a3e279b5a5 ERROR |     maintance.html |    went to the maintance page while the website was down
+ <br>Date: 5/30/2022, 2:05:24 PM |     Token: 207a37fe-6e11-4659-b96c-f9e78ef9969f INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:05:26 PM |     Token: 19726d21-898d-4980-bee6-c5d1780dbf79 INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:05:26 PM |     Token: e67b09b5-a70d-43ca-9c86-5e36bf6ddde0 INFO |     index.html |    the homepage was visted
+ <br>Date: 5/30/2022, 2:05:28 PM |     Token: 4644a437-59ef-401d-acc6-17bd3cbadd4b INFO |     index.html |    the homepage was visted
+ <br>Date: 5/30/2022, 2:05:36 PM |     Token: 5a03d522-4494-4650-9b99-a024f02ee2f7 ERROR |     maintance.html |    went to the maintance page while the website was down
+ <br>Date: 5/30/2022, 2:05:41 PM |     Token: eb151a58-e889-4d8e-b7a2-5a52f4ed314c INFO |     contact.html |    the contact page was visted
+ <br>Date: 5/30/2022, 2:05:42 PM |     Token: 4984b351-25f1-45b8-94ec-b19abcf47337 INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:05:44 PM |     Token: eb1a55c5-a6ed-45b5-832e-02c1607547ed INFO |     index.html |    the homepage was visted
+ <br>Date: 5/30/2022, 2:05:53 PM |     Token: 2c19416c-ff9f-4139-9957-b0bda0001716 INFO |     subscribe.html |    the subscribe page was visted
+ <br>Date: 5/30/2022, 2:05:55 PM |     Token: e358a064-9e0d-443f-9917-31d3591ce9be INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:05:57 PM |     Token: 6f750993-ca19-4824-afe7-6198d9851e3e INFO |     index.html |    the homepage was visted
+ <br>Date: 5/30/2022, 2:07:44 PM |     Token: 9c441a9d-6757-4e02-a48d-28a363d275a1 ERROR |     maintance.html |    went to the maintance page while the website was down
+ <br>Date: 5/30/2022, 2:28:36 PM |     Token: 686f29c7-2939-46cc-849d-9b3c707bb5ee INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:28:38 PM |     Token: 752593f2-f156-4864-a511-9aead18bec5e INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:28:39 PM |     Token: cd424ed1-b6bd-46a1-8884-b31e97c7ea9c INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:30:05 PM |     Token: c190b9de-ff27-49a3-8ed9-3163084efa3d INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:30:07 PM |     Token: b032acca-2952-4472-88eb-6f32d1935550 JOKE |     aprilFools.html |    homepage was visted or was it?
+ <br>Date: 5/30/2022, 2:30:07 PM |     Token: 1a479167-b841-47fa-93df-9b6ed60a32bb JOKE |     aprilFools.html |    the home page for the site was visted or was it?
+ <br>Date: 5/30/2022, 2:31:06 PM |     Token: 60fcb6ec-41af-4e05-9c44-aadd161df6b4 INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:31:09 PM |     Token: 07d4aa38-bf3f-4827-8acb-e86ace22bd6f JOKE |     aprilFools.html |    homepage was visted or was it?
+ <br>Date: 5/30/2022, 2:33:44 PM |     Token: 2bbcd6b5-0285-4c3d-8412-6cdf2360352e MAINTANCE |     maintance.html |    maintance page was visted
+ <br>Date: 5/30/2022, 2:38:09 PM |     Token: b15034d2-8fa1-4cf6-b9b3-3d46606c9ad3 INFO |     about.html |    about page  was visted
+ <br>Date: 5/30/2022, 2:38:13 PM |     Token: 367f4f98-35a2-47f9-bc45-16c6f3a74d74 INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:38:14 PM |     Token: 4c93168f-2f70-4aac-a1ed-029637f70a32 INFO |     about.html |    about page  was visted
+ <br>Date: 5/30/2022, 2:40:15 PM |     Token: a32dba82-db60-4764-bf63-0c108abcb0f9 INFO |     about.html |    about page  was visted
+ <br>Date: 5/30/2022, 2:40:17 PM |     Token: a7fbacaf-5f99-45d3-9809-53dc7b49d5a0 INFO |     gallery.html |    gallery page was visted
+ <br>Date: 5/30/2022, 2:41:47 PM |     Token: 1612634f-271b-4d76-8351-918466e14e2b INFO |     subscribe.html |    subscribe page was visted
+ <br>Date: 5/30/2022, 2:42:20 PM |     Token: 8853ddfa-b9a2-4b44-a077-80fe9f2c25ec INFO |     contact.html |    contact page was visted
+ <br>Date: 5/30/2022, 2:44:09 PM |     Token: e9264182-2fe4-40c1-aed3-c1d7d1cb608f INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:44:10 PM |     Token: 370bb9ea-fd3d-457f-9b42-0ebddb662eee ADMIN |     log.html |    log page was visted
+ <br>Date: 5/30/2022, 2:44:27 PM |     Token: 47ef4fe5-d13c-49d5-b8c6-87caa9741c86 INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 2:44:57 PM |     Token: be3c840b-1191-4fb6-874c-830a8e2ea5fa INFO |     gallery.html |    gallery page was visted
+ <br>Date:5/30/2022, 2:44:59 PM |      Token: a679d4f7-907e-4804-bc2f-4d552679dcd0  ERROR |     /galleryy.html |     Page was not Found 404 error
+ <br>Date: 5/30/2022, 2:45:35 PM |     Token: 812e281b-ec6b-4911-9ce5-e364b6007d28 INFO |     gallery.html |    gallery page was visted
+ <br>Date: 5/30/2022, 2:45:38 PM |     Token: be0299e4-db1a-4d37-ab94-9487a102e77d INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 3:00:55 PM |     Token: fa9f6c0e-66c9-424e-bbd7-375c419ccf52 INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 3:00:57 PM |     Token: 8baebf2a-e07a-454b-bb24-e4f9632bc71b INFO |     about.html |    about page  was visted
+ <br>Date: 5/30/2022, 3:01:02 PM |     Token: 973b726d-d356-4990-995a-98ec51174cff INFO |     contact.html |    contact page was visted
+ <br>Date: 5/30/2022, 3:01:05 PM |     Token: 2bd2584d-bffc-4a4b-832d-5d072d68173e INFO |     contact.html |    contact page was visted
+ <br>Date: 5/30/2022, 3:01:07 PM |     Token: 53c1a9b1-f32f-40e2-bd0f-3ff16bd41203 INFO |     gallery.html |    gallery page was visted
+ <br>Date: 5/30/2022, 3:03:25 PM |     Token: ca62fb52-1b6e-45a7-9ecb-1e82d0caa623 INFO |     gallery.html |    gallery page was visted
+ <br>Date: 5/30/2022, 3:03:30 PM |     Token: a7f6d691-500c-409b-87c9-70281d266d66 INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 3:03:33 PM |     Token: bfe8b806-deb2-4c49-99bf-becb37b24889 INFO |     index.html |    homepage was visted
+ <br>Date: 5/30/2022, 3:03:36 PM |     Token: e3eac861-8708-4817-80c4-3c951fbcc2d8 INFO |     about.html |    about page  was visted
+ <br>Date: 5/30/2022, 3:03:38 PM |     Token: c4e17cc5-0072-4fbc-9bfd-1892a524cc90 INFO |     contact.html |    contact page was visted
+ <br>
