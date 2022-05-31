@@ -10,6 +10,7 @@
 const http = require("http");
 const rotues = require("./routes");
 const status = require("./status");
+
 //imports the functions from the Routes Folder
 
 const server = http.createServer((request, response) => {
@@ -90,6 +91,18 @@ const server = http.createServer((request, response) => {
       } else status.statusCheck(request, response, path);
       response.setHeader("set-cookie", "Page = Log");
       break;
+    case "/styles":
+      console.log("CSS Page Loaded");
+      response.statusCode = 200;
+
+      if (response.statusCode === 200) {
+        path = "views/CSS/styles.css";
+        response.setHeader("Location", "/styles");
+        rotues.stylesCSS(path, response);
+        status.statusCheck(request, response);
+      } else status.statusCheck(request, response, path);
+      response.setHeader("set-cookie", "Page styles");
+      break;
 
     // Redirect from old url to new one
 
@@ -108,7 +121,6 @@ const server = http.createServer((request, response) => {
       break;
   }
 });
-
 server.listen(3000, "localhost", () => {
   console.log("listening on port 3000");
 });

@@ -2,12 +2,16 @@ const EventEmitter = require("events");
 const uuid = require("uuid");
 path = require("path");
 fs = require("fs");
+os = require("os");
 
 class Logger extends EventEmitter {
-  //   log(message) {
-  //     console.log(message);
-  //     this.emit("messageLogged", { id: 1, url: "http://test" });
-  //   }
+  log(message) {
+    console.log(message);
+    this.emit("messageLogged", {
+      platform: os.platform(),
+      Version: os.release(),
+    });
+  }
 
   // creates a function to log events to a text file
 

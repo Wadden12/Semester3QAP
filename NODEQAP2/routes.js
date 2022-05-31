@@ -4,10 +4,10 @@ const logger = new Logger();
 
 //regiester a listener
 
-// logger.on("messageLogged", (arg) => {
-//   console.log("Listener Called", arg);
-// });
-// logger.log("message");
+logger.on("messageLogged", (arg) => {
+  console.log("User Details", arg);
+});
+logger.log("Welcome Message");
 
 // path route functions for each page
 logger.on("log", (route, level, msg) => logger.logEvent(route, level, msg));
@@ -16,6 +16,7 @@ let index = (path, response) => {
   //   logger.logEvent("index", "info", "the home page for the site was visted");
 
   logger.emit("log", "index", "info", "homepage was visted");
+
   // setTimeout(() => {
   //   logger.emit("log", "index", "info", "the homepage was visted");
   // }, 2000);
@@ -82,6 +83,9 @@ let logPage = (filename, response) => {
   logger.emit("log", "log", "admin", "log page was visted");
   //   logger.logEvent("log", "info", "the log page was visted");
 };
+let stylesCSS = (filename, response) => {
+  display.displayCSS(filename, response);
+};
 
 let notFound = (url, path, response) => {
   logger.emit("log", url, "error", "Page was not Found 404 error");
@@ -91,7 +95,6 @@ let notFound = (url, path, response) => {
   //   logger.logEvent(url, "error", "route was not found");
   display.displayFile(path, response);
 };
-
 // export functions to be used on another module
 module.exports = {
   index,
@@ -103,4 +106,5 @@ module.exports = {
   logPage,
   fourOneEight,
   maintance,
+  stylesCSS,
 };
