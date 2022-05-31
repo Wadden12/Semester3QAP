@@ -91,6 +91,9 @@ const server = http.createServer((request, response) => {
       } else status.statusCheck(request, response, path);
       response.setHeader("set-cookie", "Page = Log");
       break;
+
+    // serves the CSS File
+
     case "/styles":
       console.log("CSS Page Loaded");
       response.statusCode = 200;
@@ -102,6 +105,21 @@ const server = http.createServer((request, response) => {
         status.statusCheck(request, response);
       } else status.statusCheck(request, response, path);
       response.setHeader("set-cookie", "Page styles");
+      break;
+
+    // this servers the JS file for the images carousel
+
+    case "/carousel":
+      console.log("carousel JS loaded");
+      response.statusCode = 200;
+
+      if (response.statusCode === 200) {
+        path = "carousel.js";
+        response.setHeader("Location", "/carousel");
+        rotues.carousel(path, response);
+        status.statusCheck(request, response);
+      } else status.statusCheck(request, response, path);
+      response.setHeader("set-cookie", "Page caroursell");
       break;
 
     // Redirect from old url to new one

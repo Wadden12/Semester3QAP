@@ -86,6 +86,9 @@ let logPage = (filename, response) => {
 let stylesCSS = (filename, response) => {
   display.displayCSS(filename, response);
 };
+let carousel = (filename, response) => {
+  display.displayJS(filename, response);
+};
 
 let notFound = (url, path, response) => {
   logger.emit("log", url, "error", "Page was not Found 404 error");
@@ -107,4 +110,5 @@ module.exports = {
   fourOneEight,
   maintance,
   stylesCSS,
+  carousel,
 };

@@ -27,8 +27,23 @@ let displayCSS = (path, response) => {
     }
   });
 };
+let displayJS = (path, response) => {
+  fs.readFile(path, (err, data) => {
+    if (err) {
+      console.log(err);
+      response.end();
+    } else {
+      response.writeHead(response.statusCode, {
+        "Content-Type": "text/javascript",
+      });
+      response.write(data);
+      response.end();
+    }
+  });
+};
 
 module.exports = {
   displayFile,
   displayCSS,
+  displayJS,
 };
